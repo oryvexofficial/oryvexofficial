@@ -35,8 +35,8 @@ We believe that:
 | Goal | Status |
 |------|--------|
 | ✅ Windows Client | Released |
-| ✅ Linux Client | Released |
-| ✅ Android App | Released |
+| 🔄 Linux Client | Coming Soon |
+| 🔄 Android App | Coming Soon |
 | 🔄 macOS & iOS | Coming Soon |
 
 ---
