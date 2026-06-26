@@ -1,22 +1,26 @@
+<!-- README.md - ORYVEX VPN -->
+
 <div align="center">
 
-# <img src="icon.png" width="40" height="40" alt="ORYVEX" style="border-radius: 10px;"> **ORYVEX**
+<img src="icon.png" width="80" height="80" alt="ORYVEX" style="border-radius: 16px;">
 
-### 🛡️ Secure · 🔒 Private · ♾️ Unlimited
+# 🛡️ ORYVEX VPN
 
-> *Breaking digital borders. One connection at a time.*
+### *Secure · Private · Unlimited*
 
-<br>
-
-[![Website](https://img.shields.io/badge/Website-oryvex.top-14b8a6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.top)
-[![GitHub](https://img.shields.io/badge/GitHub-ORYVEX-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oryvexofficial)
-[![Telegram](https://img.shields.io/badge/Telegram-@oryvex_vpn-14b8a6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oryvex_vpn)
-[![Discord](https://img.shields.io/badge/Discord-@oryvex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oryvex)
-[![License](https://img.shields.io/badge/License-MIT-14b8a6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+> **Breaking digital borders. One connection at a time.**
 
 <br>
 
-![ORYVEX Banner](https://img.shields.io/badge/🛡️%20ORYVEX%20VPN-Free%20%26%20Secure-14b8a6?style=for-the-badge&logo=vpn&logoColor=white&labelColor=0a0a0f)
+[![Website](https://img.shields.io/badge/🌐%20Website-oryvex.top-14b8a6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.top)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-ORYVEX-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oryvexofficial)
+[![Telegram](https://img.shields.io/badge/💬%20Telegram-@oryvex_vpn-14b8a6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oryvex_vpn)
+[![Discord](https://img.shields.io/badge/🎮%20Discord-@oryvex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oryvex)
+[![License](https://img.shields.io/badge/📜%20License-MIT-14b8a6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+
+<br>
+
+![ORYVEX Banner](https://img.shields.io/badge/🛡️%20FREE%20VPN-No%20Limits%20•%20No%20Logs%20•%20No%20Cost-14b8a6?style=for-the-badge&labelColor=0a0a0f)
 
 </div>
 
@@ -24,15 +28,17 @@
 
 ## 📖 Table of Contents
 
-- [🚀 Who We Are](#-who-we-are)
-- [🎯 Our Mission](#-our-mission)
-- [✨ Features](#-features)
-- [💻 Tech Stack](#-tech-stack)
-- [📊 GitHub Stats](#-github-stats)
-- [👥 Our Team](#-our-team)
-- [🤝 Join Us](#-join-us)
-- [🌟 Support Us](#-support-us)
-- [📜 License](#-license)
+| # | Section |
+|---|---------|
+| 1 | [🚀 Who We Are](#-who-we-are) |
+| 2 | [🎯 Our Mission](#-our-mission) |
+| 3 | [✨ Features](#-features) |
+| 4 | [💻 Tech Stack](#-tech-stack) |
+| 5 | [📊 GitHub Stats](#-github-stats) |
+| 6 | [👥 Our Team](#-our-team) |
+| 7 | [🤝 Join Us](#-join-us) |
+| 8 | [🌟 Support Us](#-support-us) |
+| 9 | [📜 License](#-license) |
 
 ---
 
@@ -184,6 +190,8 @@ If you believe in what we do, here's how you can support:
 ## 📜 License
 
 All ORYVEX projects are **open source** and released under the **MIT License** unless stated otherwise.
+
+```
 MIT License
 
 Copyright (c) 2024 ORYVEX
@@ -205,16 +213,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
----
-
 <div align="center">
+Made with ❤️ by the ORYVEX Team
+Secure. Private. Unlimited.
 
-### Made with ❤️ by the ORYVEX Team
+https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%2520ORYVEX%2520VPN-Free%2520VPN-14b8a6?style=for-the-badge&logo=vpn&logoColor=white
 
-**Secure. Private. Unlimited.**
-
-[![ORYVEX](https://img.shields.io/badge/🛡️%20ORYVEX%20VPN-Free%20VPN-14b8a6?style=for-the-badge&logo=vpn&logoColor=white)](https://oryvex.top)
-
-</div>
+</div> ```
