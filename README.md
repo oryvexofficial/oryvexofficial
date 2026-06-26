@@ -10,11 +10,11 @@
 <br>
 
 <!-- BADGES -->
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90_Website-oryvex.top-14b8a6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.top)
-[![GitHub](https://img.shields.io/badge/%F0%9F%90%99_GitHub-oryvexofficial-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oryvexofficial)
-[![Telegram](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-%40oryvex_vpn-14b8a6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oryvex_vpn)
-[![Discord](https://img.shields.io/badge/%F0%9F%8E%AE_Discord-%40oryvex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oryvex)
-[![License](https://img.shields.io/badge/%F0%9F%93%9C_License-MIT-14b8a6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-oryvex.top-14b8a6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.top)
+[![GitHub](https://img.shields.io/badge/GitHub-oryvexofficial-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oryvexofficial)
+[![Telegram](https://img.shields.io/badge/Telegram-%40oryvex_vpn-14b8a6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oryvex_vpn)
+[![Discord](https://img.shields.io/badge/Discord-%40oryvex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oryvex)
+[![License](https://img.shields.io/badge/License-MIT-14b8a6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 <br>
 
