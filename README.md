@@ -10,11 +10,11 @@
 <br>
 
 <!-- BADGES -->
-[![Website](https://img.shields.io/badge/🌐_Website-oryvex.top-14b8a6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.top)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-oryvexofficial-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oryvexofficial)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-@oryvex_vpn-14b8a6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oryvex_vpn)
-[![Discord](https://img.shields.io/badge/🎮_Discord-@oryvex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oryvex)
-[![License](https://img.shields.io/badge/📜_License-MIT-14b8a6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_Website-oryvex.top-14b8a6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.top)
+[![GitHub](https://img.shields.io/badge/%F0%9F%90%99_GitHub-oryvexofficial-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oryvexofficial)
+[![Telegram](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-%40oryvex_vpn-14b8a6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oryvex_vpn)
+[![Discord](https://img.shields.io/badge/%F0%9F%8E%AE_Discord-%40oryvex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oryvex)
+[![License](https://img.shields.io/badge/%F0%9F%93%9C_License-MIT-14b8a6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 <br>
 
@@ -211,11 +211,15 @@ We're always looking for passionate people to join our mission!
 All ORYVEX projects are **open source** and released under the **MIT License** unless stated otherwise.
 
 </div>
-<div align="center"><!-- ANIMATED FOOTER --><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-Made with ❤️ by the ORYVEX Team
+
+<div align="center">
+
+<!-- ANIMATED FOOTER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+Made with ❤️ by the ORYVEX Team  
 Secure. Private. Unlimited.
 
-
-https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_ORYVEX_VPN-Free_VPN-14b8a6?style=for-the-badge&logo=vpn&logoColor=white
+[![ORYVEX VPN](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_ORYVEX_VPN-Free_VPN-14b8a6?style=for-the-badge&logo=vpn&logoColor=white)](https://oryvex.top)
 
 </div>
