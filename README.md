@@ -207,7 +207,7 @@ We're always looking for passionate people to join our mission!
 
 <div align="center">
 
-All ORYVEX projects are **open source** and released under the **MIT License** unless stated otherwise.
+All ORYVEX projects are **closed source** and released under the **MIT License** unless stated otherwise.
 
 </div>
 
