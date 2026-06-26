@@ -179,7 +179,6 @@ We're always looking for passionate people to join our mission!
 | Platform | Link |
 |----------|------|
 | 🌐 **Website** | [oryvex.top](https://oryvex.top) |
-| 📧 **Email** | `team@oryvex.top` |
 | 💬 **Telegram** | [@oryvex_vpn](https://t.me/oryvex_vpn) |
 | 🎮 **Discord** | [@oryvex](https://discord.gg/oryvex) |
 | 🐙 **GitHub** | [@oryvexofficial](https://github.com/oryvexofficial) |
