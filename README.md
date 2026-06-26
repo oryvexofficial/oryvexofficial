@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=42&duration=2000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&height=70&lines=ORYVEX+VPN;Secure+%E2%80%A2+Private+%E2%80%A2+Unlimited" alt="ORYVEX VPN" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=42&duration=2000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&height=70&lines=ORYVEX+VPN;SSecure+%E2%80%A2+Private+%E2%80%A2+Unlimited" alt="ORYVEX VPN" />
 
 <br>
 
