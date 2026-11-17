@@ -65,18 +65,13 @@ Working smarter, not harder, with fully automated infrastructure.
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Featured Project
 
 <div align="center">
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🛡️ **OryvexVPN** | Zero-log VPN client with WireGuard, MASQUE, Fox, & built-in Tor. | `Flutter`, `Rust`, `Go` |
-| 🎛️ **MX-UI (v2.0)** | Advanced Xray, VLESS, and Trojan VPN proxy management web dashboard. | `TypeScript`, `Workers` |
-| 🌐 **Lumen Browser** | Lightweight desktop web browser featuring native window controls & glassmorphism. | `Rust`, `Tauri` |
-| 📹 **WebRTC D1 Meet** | Serverless video conferencing app using D1 for peer-to-peer signaling. | `WebRTC`, `Workers` |
-| ⚔️ **OryvexClient** | Custom Minecraft 1.8.9 PvP client with OpenGL shaders & bi-directional text rendering. | `Java 8`, `Forge` |
-| 📝 **PorsTime** | Online timed exam platform with anti-cheat protections and custom dashboards. | `Web`, `Backend` |
 
 </div>
 
