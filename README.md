@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=42&duration=2000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&height=70&lines=ORYVEX+VPN;SSecure+%E2%80%A2+Private+%E2%80%A2+Unlimited" alt="ORYVEX VPN" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=42&duration=2000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&height=70&lines=ORYVEX+VPN;Secure+%E2%80%A2+Private+%E2%80%A2+Unlimited" alt="ORYVEX VPN" />
 
 <br>
 
@@ -66,11 +66,11 @@
 
 <br>
 
-| Platform | Status | Release |
-|----------|--------|---------|
-| 🖥️ **Windows Client** | ✅ **Released** | v1.0.0 |
+| Platform | Status | Notes |
+|----------|--------|-------|
+| 🖥️ **Windows Client** | ✅ **Released** | x64, built straight from the shared Flutter core |
+| 📱 **Android Client** | ✅ **Released** | arm64-v8a & armeabi-v7a APKs |
 | 🐧 **Linux Client** | 🟡 Soon... | TBD |
-| 📱 **Android App** | 🟡 Soon... | TBD |
 | 🍎 **macOS Client** | 🟡 Soon... | TBD |
 | 📱 **iOS App** | 🟡 Soon... | TBD |
 
@@ -82,17 +82,17 @@
 
 <div align="center">
 
-### 🖥️ Desktop Client (Windows)
+### 🖥️ One App, Every Platform
 
 | Feature | Description |
 |---------|-------------|
-| ⚡ **One-Click Connect** | Connect to the fastest server instantly |
-| 🔒 **Military-Grade Encryption** | All traffic encrypted with Xray-core |
-| 🌐 **Multiple Protocols** | VLESS, VMESS, Trojan, Shadowsocks, XHTTP |
-| 🎮 **Discord Rich Presence** | Show your VPN status on Discord |
-| 📊 **Real-Time Usage** | Track your data usage in real-time |
-| 🔄 **Auto-Reconnect** | Automatically reconnects if disconnected |
-| 🛡️ **Kill Switch** | Blocks internet if VPN disconnects |
+| ⚡ **One-Click Connect** | Auto mode tries WireGuard, MASQUE, MASQUE², then Gool — and keeps the first route that connects |
+| 🌐 **Eight Routes** | WireGuard, MASQUE, MASQUE², Gool, Tor, Bypass, MITM, and Fox (via Mozilla's Firefox VPN) |
+| 🧅 **Built-in Tor** | Pick an exit country or let Tor choose, with bridges when needed |
+| 🦊 **Fox Mode** | Route through Mozilla's Firefox VPN service, with optional self-hosted Cloudflare relay |
+| 📊 **Live Telemetry** | Real-time download, upload, session time, and gateway cards |
+| 🔄 **Auto-Reconnect** | Reconnects automatically without dropping your session history |
+| 🧩 **Obfuscation** | HTTP/2 or HTTP/3 tunneling and TLS fragmentation to blend in with regular traffic |
 | ♾️ **Unlimited Usage** | No data caps, no time limits |
 
 ### 🛡️ Security Features
@@ -100,9 +100,9 @@
 | Feature | Description |
 |---------|-------------|
 | 🔐 **Zero Logs** | We never store your browsing history |
-| 🧩 **Obfuscation** | Bypass deep packet inspection |
+| 🔑 **Per-Session Isolation** | Every connection gets its own session id, so a stale event can never touch a new one |
 | 🔄 **Perfect Forward Secrecy** | Each session uses unique keys |
-| 🛡️ **DNS Protection** | Encrypted DNS queries |
+| 🛡️ **DNS Protection** | Set your own DNS servers to resolve inside the tunnel |
 
 </div>
 
@@ -114,11 +114,11 @@
 
 | Category | Technologies |
 |----------|--------------|
-| **Desktop** | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Core Engine** | ![Xray-core](https://img.shields.io/badge/Xray--core-1.8.0-14b8a6?style=flat-square&logo=go&logoColor=white) ![VLESS](https://img.shields.io/badge/VLESS-14b8a6?style=flat-square&logo=go&logoColor=white) ![XHTTP](https://img.shields.io/badge/XHTTP-14b8a6?style=flat-square&logo=go&logoColor=white) |
-| **Backend API** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Infrastructure** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Future Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **App Shell** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Tunnel Engines** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white) |
+| **Android** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Fox Relay** | ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 </div>
 
@@ -148,11 +148,11 @@
 
 | Role | Responsibilities | Status |
 |------|------------------|--------|
-| 👑 **Founder & Lead Developer** | Core architecture, Xray integration, API design | 🟢 Active |
+| 👑 **Founder & Lead Developer** | Core architecture, tunnel protocol integration, app design | 🟢 Active |
 | 🛡️ **Security Researcher** | Protocol analysis, encryption, vulnerability assessment | 🟢 Active |
 | 🎨 **UI/UX Designer** | Interface design, user experience, branding | 🟢 Active |
-| 🌍 **Infrastructure Engineer** | Server network, deployment, scaling | 🟢 Active |
-| 📱 **Mobile Developer** | Android & iOS app development | 🟢 Active |
+| 🌍 **Infrastructure Engineer** | Fox relay, CI/CD pipelines, release builds | 🟢 Active |
+| 📱 **Mobile Developer** | Android app development | 🟢 Active |
 | 📝 **Documentation Writer** | Guides, tutorials, user manuals | 🟢 Active |
 
 </div>
@@ -207,7 +207,7 @@ We're always looking for passionate people to join our mission!
 
 <div align="center">
 
-All ORYVEX projects are **closed source** and released under the **MIT License** unless stated otherwise.
+OryvexVPN is released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 </div>
 
@@ -216,7 +216,7 @@ All ORYVEX projects are **closed source** and released under the **MIT License**
 <!-- ANIMATED FOOTER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-Made with ❤️ by the ORYVEX Team  
+Made with ❤️ by the ORYVEX Team
 Secure. Private. Unlimited.
 
 [![ORYVEX VPN](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_ORYVEX_VPN-Free_VPN-14b8a6?style=for-the-badge&logo=vpn&logoColor=white)](https://oryvex.top)
