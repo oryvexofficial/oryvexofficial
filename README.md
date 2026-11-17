@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=42&duration=2000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&height=70&lines=ORYVEX+VPN;Secure+%E2%80%A2+Private+%E2%80%A2+Unlimited" alt="ORYVEX VPN" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=42&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=500&height=70&lines=ORYVEX+VPN;Secure+%E2%80%A2+Private+%E2%80%A2+Unlimited" alt="ORYVEX VPN" />
 
 <br>
 
@@ -10,11 +10,11 @@
 <br>
 
 <!-- BADGES -->
-[![Website](https://img.shields.io/badge/Website-oryvex.top-14b8a6?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.top)
-[![GitHub](https://img.shields.io/badge/GitHub-oryvexofficial-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oryvexofficial)
-[![Telegram](https://img.shields.io/badge/Telegram-%40oryvex_vpn-14b8a6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oryvex_vpn)
-[![Discord](https://img.shields.io/badge/Discord-%40oryvex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oryvex)
-[![License](https://img.shields.io/badge/License-MIT-14b8a6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-oryvex.top-007BFF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oryvex.top)
+[![GitHub](https://img.shields.io/badge/GitHub-oryvexofficial-007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oryvexofficial)
+[![Telegram](https://img.shields.io/badge/Telegram-%40oryvex_vpn-007BFF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oryvex_vpn)
+[![Discord](https://img.shields.io/badge/Discord-%40oryvex-007BFF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oryvex)
+[![License](https://img.shields.io/badge/License-MIT-007BFF?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 <br>
 
@@ -129,14 +129,14 @@
 <div align="center">
 
 <!-- ANIMATED STATS CARDS -->
-<img src="https://github-readme-stats.vercel.app/api?username=oryvexofficial&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=14b8a6&icon_color=14b8a6&text_color=e5e5e5&border_color=14b8a6&border_radius=10&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=oryvexofficial&show_icons=true&theme=dark&bg_color=000000&title_color=007BFF&icon_color=007BFF&text_color=ffffff&border_color=007BFF&border_radius=10&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oryvexofficial&layout=compact&theme=dark&bg_color=0a0a0f&title_color=14b8a6&text_color=e5e5e5&border_color=14b8a6&border_radius=10&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oryvexofficial&layout=compact&theme=dark&bg_color=000000&title_color=007BFF&text_color=ffffff&border_color=007BFF&border_radius=10&hide_border=true" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oryvexofficial&theme=dark&background=0a0a0f&stroke=14b8a6&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&border=14b8a6&border_radius=10&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oryvexofficial&theme=dark&background=000000&stroke=007BFF&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&border=007BFF&border_radius=10&hide_border=true" width="49%" />
 
 <!-- VISITOR COUNT -->
-<img src="https://komarev.com/ghpvc/?username=oryvexofficial&color=14b8a6&style=flat-square&label=Visitors" alt="Visitors" />
+<img src="https://komarev.com/ghpvc/?username=oryvexofficial&color=007BFF&style=flat-square&label=Visitors" alt="Visitors" />
 
 </div>
 
@@ -219,6 +219,6 @@ OryvexVPN is released under the **MIT License**. See [LICENSE](LICENSE) for deta
 Made with ❤️ by the ORYVEX Team
 Secure. Private. Unlimited.
 
-[![ORYVEX VPN](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_ORYVEX_VPN-Free_VPN-14b8a6?style=for-the-badge&logo=vpn&logoColor=white)](https://oryvex.top)
+[![ORYVEX VPN](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_ORYVEX_VPN-Free_VPN-007BFF?style=for-the-badge&logo=vpn&logoColor=white)](https://oryvex.top)
 
 </div>
